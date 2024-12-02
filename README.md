@@ -15,7 +15,7 @@
 
  <!--  - 👨‍💻 All of my projects are available at [fill later](fill later)  -->
 
-- 💬 Ask me about **Machine Learning, Generative AI, Software Development **
+- 💬 Ask me about **Machine Learning, Generative AI, Software Development**
 
 - 📫 How to reach me **bhushanpkale@gmail.com**
 
