@@ -13,7 +13,7 @@
 
  <!--    - 🤝 I’m looking for help with **fill later**   -->
 
- 👨‍💻 All of my projects are available at [Bhushan's Portfolio](https://bhushank19.github.io/Bhushan-Site/)
+- 👨‍💻 All of my projects are available at [Bhushan's Portfolio](https://bhushank19.github.io/Bhushan-Site/)
 
 - 💬 Ask me about **Machine Learning, Generative AI, Software Development**
 
